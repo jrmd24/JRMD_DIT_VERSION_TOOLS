@@ -1,0 +1,5 @@
+outs:
+- md5: 225b1cf69c0b0a54af72fef7489a8afc
+  size: 124
+  hash: md5
+  path: employe.csv
