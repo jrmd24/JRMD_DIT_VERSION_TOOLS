@@ -1,2 +1,4 @@
 ['remote "dvc_data_local_ptr"']
     url = gdrive://1fLSrkA1CrHD31S0qbUElvXSMcxJlYoAe
+    gdrive_client_id = 2337273605-6j65ne2krkglta7ql5f633c7vmssrcpt.apps.googleusercontent.com
+    gdrive_client_secret = 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
